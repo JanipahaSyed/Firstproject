@@ -30,6 +30,7 @@ public class CarInfo {
 	 int quantity=s.nextInt();
 	 boolean check=getCertifiedCars(Car[] cararray,quantity);
 	 System.out.println("check="+check);
+	 System.out.println("this is 2nd person");
 	 double count=getCountofMileageRange(Car [] cararry,mileage, int i, int j);
 	 System.out.println("count="+count);
 	 
