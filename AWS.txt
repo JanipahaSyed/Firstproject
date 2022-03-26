@@ -1,0 +1,15 @@
+How To Create an AWS Architecture Diagram
+
+https://intellipaat.com/blog/what-is-aws-architecture/
+
+Q
+What is the difference between SQL and NoSQL?
+What is VPC end point how to use it
+Replication
+Cognito User Pool
+How to use Lamda 
+DR technologies
+https://www.whizlabs.com/blog/aws-vpc-interview-questions/
+
+
+https://www.youtube.com/watch?v=vOMQBkYCFno&ab_channel=PerezTheDev
